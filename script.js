@@ -17,9 +17,9 @@ const getResult = (cityName) => {
 
 const displayResult = (result) => {
     let city = document.querySelector('.city')
-    city.innerText = `${result.name},${result.sys.country}`
+    city.innerText = `${result.name}, ${result.sys.country}`
 
-    let temp =document.querySelector('.temp')
+    let temp = document.querySelector('.temp')
     temp.innerText = `${Math.round(result.main.temp)}°C`
 
     let desc = document.querySelector('.desc')
