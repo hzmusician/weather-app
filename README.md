@@ -16,8 +16,10 @@ I tried to prepare a simple and understandable design.
 Thus, when the user opens the page, he will be able to start using it directly without thinking about where it is or how to do it.
 I made it usable with javascript. I don't need to use any extra technology.
 
+### Js Codes
 <img src="https://github.com/hzmusician/weather-app/blob/main/Photos/img-2.png" width="600px" height="auto"> 
 
+### Html Codes
 <img src="https://github.com/hzmusician/weather-app/blob/main/Photos/img-3.png" width="600px" height="auto"> 
 
 
