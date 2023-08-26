@@ -17,10 +17,9 @@ Thus, when the user opens the page, he will be able to start using it directly w
 I made it usable with javascript. I don't need to use any extra technology.
 
 <img src="https://github.com/hzmusician/weather-app/blob/main/Photos/img-2.png" width="600px" height="auto"> 
-> Javascript Codes
 
 <img src="https://github.com/hzmusician/weather-app/blob/main/Photos/img-3.png" width="600px" height="auto"> 
-> Html Codes
+
 
 > [!IMPORTANT]
 > I used Vs Code as the compiler.
